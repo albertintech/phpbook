@@ -1,5 +1,5 @@
 <?php 
-$item    = 'Chocolate';
+$item    = 'Ginger Chews Packet';
 $stock   = 5;
 $wanted  = 3;
 $deliver = true;

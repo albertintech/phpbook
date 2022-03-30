@@ -1,6 +1,6 @@
 <?php 
-$item    = 'Chocolate';
-$stock   = 5;
+$item    = 'Ginger Chews Packet';
+$stock   = 10;
 $wanted  = 8;
 $can_buy = ($wanted <= $stock);
 ?>

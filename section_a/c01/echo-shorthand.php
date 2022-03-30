@@ -1,6 +1,6 @@
 <?php 
-$name      = 'Ivy';
-$favorites = ['Chocolate', 'Toffee', 'Fudge',];
+$name      = 'Albert';
+$favorites = ['Ginger Chews', 'Toffee', 'Fudge',];
 ?>
 <!DOCTYPE html>
 <html>
@@ -11,7 +11,7 @@ $favorites = ['Chocolate', 'Toffee', 'Fudge',];
   <body>
     <h1>The Candy Store</h1>
     <h2>Welcome <?= $name ?></h2>
-    <p>Your favorite type of candy is:
+    <p>Your favorite type of candy:
        <?= $favorites[0] ?>.</p>
   </body>
 </html>
