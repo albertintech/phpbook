@@ -18,7 +18,7 @@ if ($stock > 0) {
   </head>
   <body>
     <h1>The Candy Store</h1>
-    <h2>Chocolate</h2>
+    <h2>Ginger Chews</h2>
     <p><?= $message ?></p>
   </body>
 </html>
