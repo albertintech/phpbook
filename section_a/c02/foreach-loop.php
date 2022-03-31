@@ -3,6 +3,8 @@ $products = [
     'Toffee' => 2.99,
     'Mints'  => 1.99,
     'Fudge'  => 3.49,
+    'Caramels' => 2.49,
+    'Ginger Chews' => 1.99,
 ];
 ?>
 <!DOCTYPE html>
