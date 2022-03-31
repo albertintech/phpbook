@@ -1,5 +1,5 @@
 <?php
-$best_sellers = ['Toffee', 'Mints', 'Fudge',];
+$best_sellers = ['Toffee', 'Mints', 'Fudge', 'Caramels', 'Ginger Chews',];
 ?>
 <!DOCTYPE html>
 <html>
@@ -10,8 +10,8 @@ $best_sellers = ['Toffee', 'Mints', 'Fudge',];
   <body>
     <h1>The Candy Store</h1>
     <h2>Best Sellers</h2>
-    <?php foreach ($best_sellers as $product) { ?>
-      <p><?= $product ?></p>
+    <?php foreach ($best_sellers as $candy) { ?>
+      <p><?= $candy ?></p>
     <?php } ?>
   </body>
 </html>
